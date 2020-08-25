@@ -1,4 +1,4 @@
-# ![GA Logo](./../media/GALogo.png)
+# ![GA Logo](./media/GALogo.png)
 # Project 3 - THE SCORE 
 
 By [Raquel Cruickshank](https://github.com/cruickshankrpc) + [Kianna Love](https://github.com/akirakianna) + [Lara Thompson](https://github.com/larathompson) + [Shaik Qayum](https://github.com/shaikhqayum)
@@ -15,7 +15,7 @@ Once logged in, users can:
 
 Have a browse [here](https://the--score.herokuapp.com/#/).
 
-![home](./../media/boogie_nights.gif)
+![home](./media/boogie_nights.gif)
 
 ## Contents
   - [Overview](#overview)
@@ -78,11 +78,11 @@ Have a browse [here](https://the--score.herokuapp.com/#/).
 
 We were careful to delegate tasks and plan our MVP in order to build quickly and get the most functionality possible:
 
-![trello](./../media/trello.png)
+![trello](./media/trello.png)
 
 We also used Figma to sketch out our design: 
 
-![wireframe](./../media/wireframe.png)
+![wireframe](./media/wireframe.png)
 
 
 ## Responsibilities 
@@ -161,7 +161,7 @@ axios.get(`https://api.spotify.com/v1/search?q=${movieName}soundtrack&type=playl
 ```
 ### Women 
 
-![women](./../media/women.gif)
+![women](./media/women.gif)
 
 As with the carousel on HomePage, I built a custom film list and made an axios request to that film list ID.\
 I also used AOS (Animate On Scroll) library to add smooth animations to the film cards. 
@@ -208,13 +208,13 @@ I used JSX to return elements on the page, and mapped over the retrieved data to
 ```
 I also made this **mobile responsive**:
 
-![mobile](../media/women_mobile.gif))
+![mobile](./media/women_mobile.gif)
 
 ### Flourishes
 
 Perhaps rather unnecessarily - though I do love the small details - I also added a footer with an animation and links to our GitHub accounts and to the accredited Spotify and MovieDB API websites.
 
-![footer](./../media/footer.gif)
+![footer](./media/footer.gif)
 
 ## Wins & Challenges
 
