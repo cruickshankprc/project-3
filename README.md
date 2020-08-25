@@ -13,7 +13,11 @@ Once logged in, users can:
 - Write/Edit/Delete reviews.
 - Browse film lists/reviews/favourites.
 
-Have a browse [here](https://the--score.herokuapp.com/#/).
+Have a browse [here](https://the-final-score.herokuapp.com/).
+
+Register/Login with:
+Email: **tofu@tofu.com**
+Password: **tofu**
 
 ![home](./media/boogie.gif)
 
