@@ -17,7 +17,7 @@ Have a browse [here](https://the-final-score.herokuapp.com/).
 
 Register/Login with:\
 Email: **tofu@tofu.com**\
-Password: **tofu**\
+Password: **tofu**
 
 ![home](./media/boogie.gif)
 
