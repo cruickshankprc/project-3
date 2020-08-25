@@ -74,6 +74,7 @@ Password: **tofu**
 - Clone/download repo
 - In Terminal: 
   - Install dependencies -> <code>npm i</code>
+  - Seed -> <code>npm run seed</code>
   - Start the database -> <code>mongod --dbpath ~/data/db</code>
   - Start the frontend -> <code>npm run:front</code>
   - Start the backend -> <code>npm run:back</code>
