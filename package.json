@@ -9,7 +9,7 @@
     "serve:front": "webpack-dev-server",
     "seed": "node ./Back-End/seed.js",
     "build": "npm run seed; webpack -p",
-  	"start": "node ./Back-End/server.js"
+    "start": "node ./Back-End/server.js"
   },
   "repository": {
     "type": "git",
