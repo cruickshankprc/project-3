@@ -15,9 +15,9 @@ Once logged in, users can:
 
 Have a browse [here](https://the-final-score.herokuapp.com/).
 
-Register/Login with:
-Email: **tofu@tofu.com**
-Password: **tofu**
+Register/Login with:\
+Email: **tofu@tofu.com**\
+Password: **tofu**\
 
 ![home](./media/boogie.gif)
 
