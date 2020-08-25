@@ -15,7 +15,7 @@ Once logged in, users can:
 
 Have a browse [here](https://the--score.herokuapp.com/#/).
 
-![home](./media/boogie_nights.gif)
+![home](./media/boogie.gif)
 
 ## Contents
   - [Overview](#overview)
