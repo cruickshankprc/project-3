@@ -19,7 +19,9 @@ Register/Login with:\
 Email: **tofu@tofu.com**\
 Password: **tofu**
 
-![home](./media/boogie-nights.gif)
+<p align=center>
+<img src="./media/boogie-nights.gif" />
+</p>
 
 ## Contents
   - [Overview](#overview)
