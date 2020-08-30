@@ -5,7 +5,7 @@ By [Raquel Cruickshank](https://github.com/cruickshankrpc) + [Kianna Love](https
 
 ## Overview
 
-My first experience of a group coding project - I was apprenhensive about how we would work as a team. In spite of our challenges (particularly with **Git**...), it was ultimately a very positive learning experience.\
+My first experience of a group coding project. In spite of our challenges (particularly with **Git**...), it was ultimately a very positive learning experience.\
 I was chuffed that my teammates were onboard with the idea I floated of connecting a film database API to a music streaming API to return film soundtracks in this full-stack MERN application.\
 Once logged in, users can: 
 - Search films and return their soundtracks.
@@ -13,7 +13,11 @@ Once logged in, users can:
 - Write/Edit/Delete reviews.
 - Browse film lists/reviews/favourites.
 
-Have a browse [here](https://the--score.herokuapp.com/#/).
+Have a browse [here](https://the-final-score.herokuapp.com/).
+
+Register/Login with:\
+Email: **tofu@tofu.com**\
+Password: **tofu**
 
 ![home](./media/boogie-nights.gif)
 
@@ -70,6 +74,7 @@ Have a browse [here](https://the--score.herokuapp.com/#/).
 - Clone/download repo
 - In Terminal: 
   - Install dependencies -> <code>npm i</code>
+  - Seed -> <code>npm run seed</code>
   - Start the database -> <code>mongod --dbpath ~/data/db</code>
   - Start the frontend -> <code>npm run:front</code>
   - Start the backend -> <code>npm run:back</code>
