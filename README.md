@@ -170,7 +170,9 @@ axios.get(`https://api.spotify.com/v1/search?q=${movieName}soundtrack&type=playl
 ```
 ### Women 
 
-![women](./media/women-p3.gif)
+<p align=center>
+<img src="./media/women-p3.gif" />
+</p>
 
 As with the carousel on HomePage, I built a custom film list and made an axios request to that film list ID.\
 I also used AOS (Animate On Scroll) library to add smooth animations to the film cards. 
