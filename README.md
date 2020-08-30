@@ -19,9 +19,11 @@ Register/Login with:\
 Email: **tofu@tofu.com**\
 Password: **tofu**
 
+
 <p align=center>
 <img src="./media/boogie-nights.gif" />
 </p>
+
 
 ## Contents
   - [Overview](#overview)
@@ -168,7 +170,7 @@ axios.get(`https://api.spotify.com/v1/search?q=${movieName}soundtrack&type=playl
 ```
 ### Women 
 
-![women](./media/women.gif)
+![women](./media/women-p3.gif)
 
 As with the carousel on HomePage, I built a custom film list and made an axios request to that film list ID.\
 I also used AOS (Animate On Scroll) library to add smooth animations to the film cards. 
