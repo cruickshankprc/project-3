@@ -33,7 +33,7 @@ Password: **tofu**
   - [Planning](#planning)
   - [Responsibilities](#responsibilities)
     - [HomePage](#HomePage)
-    - [Linking Apis](#linking-apis)
+    - [Linking APIs](#linking-apis)
     - [Women](#women)
     - [Flourishes](#flourishes)
   - [Wins & Challenges](#wins-&-challenges)
