@@ -5,7 +5,7 @@ By [Raquel Cruickshank](https://github.com/cruickshankrpc) + [Kianna Love](https
 
 ## Overview
 
-My first experience of a group coding project. In spite of our challenges (particularly with **Git**...), it was ultimately a very positive learning experience.\
+My first experience of a group coding project. In spite of our early challenges with **Git**, it was ultimately a very positive learning experience.\
 I was chuffed that my teammates were onboard with the idea I floated of connecting a film database API to a music streaming API to return film soundtracks in this full-stack MERN application.\
 Once logged in, users can: 
 - Search films and return their soundtracks.
